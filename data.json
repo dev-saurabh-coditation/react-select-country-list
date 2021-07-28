@@ -4,6 +4,10 @@
     "label": "United States"
   },
   {
+    "value": "CA",
+    "label": "Canada"
+  },
+  {
     "value": "AF",
     "label": "Afghanistan"
   },
@@ -162,10 +166,6 @@
   {
     "value": "CM",
     "label": "Cameroon"
-  },
-  {
-    "value": "CA",
-    "label": "Canada"
   },
   {
     "value": "KY",
