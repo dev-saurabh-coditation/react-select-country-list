@@ -1,5 +1,9 @@
 [
   {
+    "value": "US",
+    "label": "United States"
+  },
+  {
     "value": "AF",
     "label": "Afghanistan"
   },
@@ -942,10 +946,6 @@
   {
     "value": "UM",
     "label": "United States Minor Outlying Islands"
-  },
-  {
-    "value": "US",
-    "label": "United States"
   },
   {
     "value": "UY",
